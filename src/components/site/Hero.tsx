@@ -18,7 +18,7 @@ export function Hero() {
       </video>
 
       {/* Sombra / overlays */}
-      <div className="absolute inset-0 bg-background/70" />
+      <div className="absolute inset-0 bg-background/55" />
       <div
         className="absolute inset-0"
         style={{ background: "var(--gradient-dark)" }}
